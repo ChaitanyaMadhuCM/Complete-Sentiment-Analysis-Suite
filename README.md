@@ -1,2 +1,5 @@
 # Sentiment-Analysis-Choate
-Explains end-to-end Sentiment Analysis, Types and different Implementation Methods 
+- What is Sentiment Analysis
+- Different Types of Sentiment Analysis 
+- Different Methods to Implementat Sentiment Analysis 
+

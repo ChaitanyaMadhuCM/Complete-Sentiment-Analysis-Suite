@@ -68,3 +68,5 @@ _"Sentiment analysis is one of the hardest tasks in natural language processing,
 - https://www.analyticsvidhya.com/blog/2022/07/sentiment-analysis-using-python/
 - https://monkeylearn.com/sentiment-analysis/
 - https://github.com/hansmichaels/sentiment-analysis-IMDB-Review-using-LSTM/tree/master
+- https://colab.research.google.com/drive/1UmwEbi6O_2epPsTcDqYkJdoZdWIiaQux?usp=sharing
+- EDA for Sentiment Analysis: https://www.kaggle.com/code/tanulsingh077/twitter-sentiment-extaction-analysis-eda-and-model/notebook

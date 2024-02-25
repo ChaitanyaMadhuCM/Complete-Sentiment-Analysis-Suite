@@ -1,5 +1,5 @@
 # What is Sentiment Analysis? 
-- **Definition:** Sentiment Analysis, also known as Opinion Mining, is an Classification use-case that employes NLP techniques to classify a given text into various sentiments, such as positive or negative, Happy, Sad or Neutral, etc. In simple terms, it is the process of detecting positive or negative sentiment in a text. 
+- **Definition:** Sentiment Analysis, also known as Opinion Mining, is an Classification use-case that employs NLP techniques to classify a given text into various sentiments, such as positive or negative, Happy, Sad or Neutral, etc. In simple terms, it is the process of judging a text body as positive or negative. 
 
 
 - **Objectives:** The key aim of Sentiment Analysis is to categorize opinions expressed in a piece of text, determining the writer's attitude towards a particular subject (topic, product, etc.). 

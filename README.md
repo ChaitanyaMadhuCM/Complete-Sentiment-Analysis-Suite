@@ -71,4 +71,4 @@ _"Sentiment analysis is one of the hardest tasks in natural language processing,
 - https://colab.research.google.com/drive/1UmwEbi6O_2epPsTcDqYkJdoZdWIiaQux?usp=sharing
 - EDA for Sentiment Analysis: https://www.kaggle.com/code/tanulsingh077/twitter-sentiment-extaction-analysis-eda-and-model/notebook
 
-- https://colab.research.google.com/drive/1UmwEbi6O_2epPsTcDqYkJdoZdWIiaQux?usp=sharing#scrollTo=yMI16IQ7Nnj6
+- Transfer Learning using Hugging Face: https://colab.research.google.com/drive/1UmwEbi6O_2epPsTcDqYkJdoZdWIiaQux?usp=sharing#scrollTo=yMI16IQ7Nnj6
